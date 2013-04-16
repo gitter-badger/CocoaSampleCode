@@ -1,0 +1,1 @@
+Read Me About MoreSCFThis project was checked out from the DTS sample code library MoreIsBetter. You can find the real read me file in the MoreSCF folder.Share and Enjoy.Apple Worldwide Developer Technical Support
